@@ -8,9 +8,9 @@ authors: ["arnaldoperez"]
 
 ## ¿Cómo empezar?
 
-Inicia sesión en (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] y crea un nuevo diagrama. Luego podrás empezar a crear tu modelo y posteriormente compartirlo.
+Log on to (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] and create a new diagram. Then you can start creating your model and share it later.
 
-## 📝Instrucciones
+## 📝Instructions
 
 Build a database model that responds to the requirements stated in the following paragraph.
 
