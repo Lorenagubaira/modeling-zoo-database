@@ -1,6 +1,6 @@
 ---
-title: "Modelando una base de datos de Zoológicos"
-description: "Based on the requirements presented to you, create a database model that responds to the approach."
+title: "Modeling a Zoo database"
+description: "Based on the requirements presented to you, create a database model that responds to the proposal."
 tags: ["postgres", "modeling","sql","4geeks"]
 authors: ["arnaldoperez"]
 
