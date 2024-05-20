@@ -6,7 +6,7 @@ authors: ["arnaldoperez"]
 
 ---
 
-## How to start?
+## ¿Cómo empezar?
 
 Inicia sesión en (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] y crea un nuevo diagrama. Luego podrás empezar a crear tu modelo y posteriormente compartirlo.
 

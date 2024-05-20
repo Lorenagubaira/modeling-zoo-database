@@ -6,7 +6,7 @@ authors: ["arnaldoperez"]
 
 ---
 
-## ¿Cómo empezar?
+## How to start?
 
 Log on to (quickdatabasediagrams.com/)[https://app.quickdatabasediagrams.com/] and create a new diagram. Then you can start creating your model and share it later.
 
