@@ -1,0 +1,23 @@
+{
+	"title" : {
+		"es":"Modelando una base de datos de Zoológicos",
+		"us":"Modeling a Zoo database"
+	},
+	"slug" : "modeling-zoo-database",
+	"preview": "",
+	"difficulty": "intermediate",
+	"technologies": ["database","postgres","sql","modeling"],
+	"duration" : 1,
+	"description" : {
+    "es":"En base a los requerimientos que se te presentan crea un modelo de base de datos que de respuesta al planteamiento",
+    "us":"Based on the requirements presented to you, create a database model that responds to the approach."
+  },
+  "projectType": "project",
+  "delivery": {
+		"instructions": {
+			"us": "When you have finished building the model, paste the URL here. Remember to create a public link so that everyone can see the model.",
+			"es": "Cuando hayas terminado de construir modelo, pega aquí la URL. Recuerda crear un enlace público para que todos cualquiera ver el modelo."
+		},
+		"formats": ["url"]
+	}
+}
