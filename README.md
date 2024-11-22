@@ -6,7 +6,7 @@ authors: ["arnaldoperez"]
 
 ---
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to start a project?
 
