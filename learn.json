@@ -6,11 +6,11 @@
 	"slug" : "modeling-zoo-database",
 	"preview": "",
 	"difficulty": "intermediate",
-	"technologies": ["database","postgres","sql","modeling"],
+	"technologies": ["sql", "databases", "data-modeling"],
 	"duration" : 1,
 	"description" : {
-	    "es":"En base a los requerimientos que se te presentan crea un modelo de base de datos que de respuesta al planteamiento",
-	    "us":"Based on the requirements presented to you, create a database model that responds to the proposal."
+	    "es":"¡Aprende a modelar una base de datos completa para un zoológico con esta guía paso a paso! Organiza información sobre zoológicos, especies animales y sus clasificaciones, incluyendo familias, géneros y especies. Diseña un modelo estructurado para rastrear detalles como identificación, origen y estado de conservación.",
+	    "us":"Learn how to model a complete Zoo database with this step-by-step guide! Organize information about zoos, animal species, and their classifications, including families, genera, and species. Design a structured model to track animal details like identification, origin, and conservation status efficiently."
 	  },
 	"solution": "https://github.com/breatheco-de/modeling-zoo-database/blob/master/solution.png?raw=true",
   "projectType": "project",
@@ -19,6 +19,9 @@
 			"us": "When you have finished building the model, paste the URL here. Remember to create a public link so that everyone can see the model.",
 			"es": "Cuando hayas terminado de construir modelo, pega aquí la URL. Recuerda crear un enlace público para que todos cualquiera ver el modelo."
 		},
-		"formats": ["url"]
+		"formats": ["url"],
+	  "telemetry": {
+			"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1699"
+		}
 	}
 }
