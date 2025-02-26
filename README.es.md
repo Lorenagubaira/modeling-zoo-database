@@ -6,13 +6,9 @@ authors: ["arnaldoperez"]
 
 ---
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo comenzar un proyecto?
 
 Inicia sesión en [quickdatabasediagrams.com/](https://app.quickdatabasediagrams.com/) y crea un nuevo diagrama. Luego podrás empezar a crear tu modelo y posteriormente compartirlo.
-
-</onlyfor>
 
 ## 📝Instrucciones
 
